@@ -1,0 +1,1 @@
+/home/alex/anaconda3/envs/orpheus-data/lib/python3.7/site-packages/chemopy-1.0-py3.7.egg
